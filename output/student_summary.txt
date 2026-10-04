@@ -1,0 +1,76 @@
+STUDENT PERFORMANCE ANALYSIS REPORT
+============================================================
+Generated on: 2026-10-04 16:19:48
+
+Name: Ali Raza
+Roll Number: CS-001
+Marks: [85.0, 90.0, 88.0]
+Total: 263.00
+Average: 87.67
+Grade: A
+Performance: Very Good
+------------------------------------------------------------
+Name: Ayesha Khan
+Roll Number: CS-002
+Marks: [95.0, 92.0, 97.0]
+Total: 284.00
+Average: 94.67
+Grade: A+
+Performance: Excellent
+------------------------------------------------------------
+Name: Hamza Ahmed
+Roll Number: CS-003
+Marks: [72.0, 68.0, 75.0]
+Total: 215.00
+Average: 71.67
+Grade: B
+Performance: Good
+------------------------------------------------------------
+Name: Fatima Noor
+Roll Number: CS-004
+Marks: [60.0, 65.0, 58.0]
+Total: 183.00
+Average: 61.00
+Grade: C
+Performance: Satisfactory
+------------------------------------------------------------
+Name: Usman Tariq
+Roll Number: CS-005
+Marks: [45.0, 52.0, 48.0]
+Total: 145.00
+Average: 48.33
+Grade: F
+Performance: Fail
+------------------------------------------------------------
+Name: Zainab Malik
+Roll Number: CS-006
+Marks: [82.0, 78.0, 85.0]
+Total: 245.00
+Average: 81.67
+Grade: A
+Performance: Very Good
+------------------------------------------------------------
+Name: Sara Ahmed
+Roll Number: CS-007
+Marks: [88.0, 91.0, 84.0]
+Total: 263.00
+Average: 87.67
+Grade: A
+Performance: Very Good
+------------------------------------------------------------
+
+CLASS SUMMARY
+============================================================
+Total Students: 7
+Class Average: 76.10
+Highest Performer: Ayesha Khan (94.67)
+Lowest Performer: Usman Tariq (48.33)
+Passed Students: 6
+Failed Students: 1
+
+Grade Distribution:
+Grade A: 3 student(s)
+Grade A+: 1 student(s)
+Grade B: 1 student(s)
+Grade C: 1 student(s)
+Grade F: 1 student(s)

@@ -1,0 +1,8 @@
+# name,roll_number,subject1,subject2,subject3
+
+Ali Raza,CS-001,85,90,88
+Ayesha Khan,CS-002,95,92,97
+Hamza Ahmed,CS-003,72,68,75
+Fatima Noor,CS-004,60,65,58
+Usman Tariq,CS-005,45,52,48
+Zainab Malik,CS-006,82,78,85
